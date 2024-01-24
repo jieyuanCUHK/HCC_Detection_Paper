@@ -1,6 +1,8 @@
 # HCC_Detection_Paper
 Code for the paper "Machine learning-enabled early detection of hepatocellular carcinoma utilizing cell-free DNA mutation and fragmentation multiplicity: a prospective study"
 
+First download and unzip the PREDICT_Dataset.zip file
+
 Code and dataset deposited in this repository main contained the following parts:
 ### Key discoveries during the research:
 1. The mutation list identified in retrospective cohort:
