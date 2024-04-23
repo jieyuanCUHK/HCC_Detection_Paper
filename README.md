@@ -15,6 +15,12 @@ Code and dataset deposited in this repository main contained the following parts
 ./0_Key_Discoveries/1_HBV_Event
 ```
 
+3. The CNV identified in retrospective cohort by CONTRA and ichorCNA tools:
+```
+./0_Key_Discoveries/2_Segments_from_ichorCNA
+./0_Key_Discoveries/3_Gene_annotations_from_CONTRA
+```
+
 ### Code for the computing of SNVScore, FRAGScore and IFScore
 1. SNVScore:
 ```
